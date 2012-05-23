@@ -2,3 +2,6 @@
 /include
 /lib
 .idea
+.dump
+.csv
+.db
