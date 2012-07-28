@@ -13,8 +13,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2', # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
         'NAME': 'lumixdb',               # Or path to database file if using sqlite3.
-        'USER': 'lumix',                 # Not used with sqlite3.
-        'PASSWORD': 'lumix123',          # Not used with sqlite3.
+        'USER': 'lumixdb',               # Not used with sqlite3.
+        'PASSWORD': 'lumixdb123',        # Not used with sqlite3.
         'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
         'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
     }
